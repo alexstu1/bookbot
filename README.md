@@ -6,7 +6,7 @@ git config --global user.name "username
 
 to save
 git add .
-git commit, can use:         -m 'message about change'
+git commit, can use:         -am 'message about change'
 git push
 
 to load?
